@@ -2,12 +2,27 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="41d74913-bcf5-466c-80bf-1cd5d16cb5ba" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/WarmupOne.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Warmup1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/CodingBat.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/FunctionalOne.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/FunctionalTwo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/MapOne.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/MapTwo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/RecursionOne.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/StringTwo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/MapOneTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/StringTwoTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/WarmupOne.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/WarmupOne.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Warmup1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/WarmupOneTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Warmup2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/WarmupTwoTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/WarmupOne.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/WarmupOne.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/Warmup1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/Warmup2.class" beforeDir="false" />
     </list>
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -32,63 +47,65 @@
   </component>
   <component name="ProjectId" id="1U2Au6JVHv1s5LYR24Ea5e6Mje9" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
     <property name="extract.method.default.visibility" value="private" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
-  </component>
-  <component name="RunManager" selected="JUnit.Warmup1.sumDoubleTest">
-    <configuration name="Warmup1.monkeyTroubleTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="JUnit.StringTwoTest.doubleCharTest">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="CodingBat" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MapTwoTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="CodingBat" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="Warmup1" />
-      <option name="METHOD_NAME" value="monkeyTroubleTest" />
+      <option name="MAIN_CLASS_NAME" value="MapTwoTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MapTwoTest.allSwapTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="CodingBat" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="MapTwoTest" />
+      <option name="METHOD_NAME" value="allSwapTest([Ljava.lang.String;)" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Warmup1.sleepInTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="StringTwoTest.doubleCharTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="CodingBat" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="Warmup1" />
-      <option name="METHOD_NAME" value="sleepInTest" />
+      <option name="MAIN_CLASS_NAME" value="StringTwoTest" />
+      <option name="METHOD_NAME" value="doubleCharTest" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Warmup1.sumDoubleTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="WarmupOneTest.shouldReturnTrueIfStraingStartsWithHi" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="CodingBat" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="Warmup1" />
-      <option name="METHOD_NAME" value="sumDoubleTest" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Warmup2.stringTimesTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="CodingBat" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="Warmup2" />
-      <option name="METHOD_NAME" value="stringTimesTest" />
+      <option name="MAIN_CLASS_NAME" value="WarmupOneTest" />
+      <option name="METHOD_NAME" value="shouldReturnTrueIfStraingStartsWithHi" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -96,12 +113,25 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.Warmup1.sumDoubleTest" />
-        <item itemvalue="JUnit.Warmup1.monkeyTroubleTest" />
-        <item itemvalue="JUnit.Warmup1.sleepInTest" />
-        <item itemvalue="JUnit.Warmup2.stringTimesTest" />
+        <item itemvalue="JUnit.StringTwoTest.doubleCharTest" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="JUnit.MapTwoTest.allSwapTest" />
+        <item itemvalue="JUnit.MapTwoTest" />
+        <item itemvalue="JUnit.WarmupOneTest.shouldReturnTrueIfStraingStartsWithHi" />
       </list>
     </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -113,8 +143,13 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1574544535492</updated>
+      <workItem from="1582143653602" duration="3721000" />
+      <workItem from="1582358983372" duration="640000" />
     </task>
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
@@ -128,5 +163,98 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1245" y="239" key="#com.intellij.ide.util.MemberChooser" timestamp="1576189566942">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1245" y="239" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040/-1366.0.1366.728@0.0.1920.1040" timestamp="1576189566942" />
+    <state x="531" y="210" width="609" height="619" key="#com.intellij.openapi.keymap.impl.ui.EditKeymapsDialog" timestamp="1575394521076">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="531" y="210" width="609" height="619" key="#com.intellij.openapi.keymap.impl.ui.EditKeymapsDialog/0.0.1920.1040/-1366.0.1366.728@0.0.1920.1040" timestamp="1575394521076" />
+    <state x="363" y="91" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1575811967732">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="363" y="91" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1366.728@0.0.1366.728" timestamp="1575811967732" />
+    <state x="690" y="266" key="#com.intellij.refactoring.typeMigration.ui.FailedConversionsDialog" timestamp="1576784992754">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="690" y="266" key="#com.intellij.refactoring.typeMigration.ui.FailedConversionsDialog/0.0.1920.1040/-1366.0.1366.728@0.0.1920.1040" timestamp="1576784992754" />
+    <state x="526" y="183" key="FileChooserDialogImpl" timestamp="1582360344018">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="526" y="183" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1582360344018" />
+    <state x="740" y="261" key="FileChooserDialogImpl/0.0.1920.1040/-1366.0.1366.728@0.0.1920.1040" timestamp="1575395359201" />
+    <state width="1877" height="348" key="GridCell.Tab.0.bottom" timestamp="1582149777486">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1323" height="105" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1577375462253" />
+    <state width="1877" height="348" key="GridCell.Tab.0.bottom/0.0.1920.1040/-1366.0.1366.728@0.0.1920.1040" timestamp="1582149777486" />
+    <state width="1877" height="348" key="GridCell.Tab.0.center" timestamp="1582149777485">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1323" height="105" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1577375462253" />
+    <state width="1877" height="348" key="GridCell.Tab.0.center/0.0.1920.1040/-1366.0.1366.728@0.0.1920.1040" timestamp="1582149777485" />
+    <state width="1877" height="348" key="GridCell.Tab.0.left" timestamp="1582149777485">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1323" height="105" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1577375462253" />
+    <state width="1877" height="348" key="GridCell.Tab.0.left/0.0.1920.1040/-1366.0.1366.728@0.0.1920.1040" timestamp="1582149777485" />
+    <state width="1877" height="348" key="GridCell.Tab.0.right" timestamp="1582149777485">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1323" height="105" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1577375462253" />
+    <state width="1877" height="348" key="GridCell.Tab.0.right/0.0.1920.1040/-1366.0.1366.728@0.0.1920.1040" timestamp="1582149777485" />
+    <state width="1877" height="348" key="GridCell.Tab.1.bottom" timestamp="1582149778449">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1323" height="105" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1577375462254" />
+    <state width="1877" height="348" key="GridCell.Tab.1.bottom/0.0.1920.1040/-1366.0.1366.728@0.0.1920.1040" timestamp="1582149778449" />
+    <state width="1877" height="348" key="GridCell.Tab.1.center" timestamp="1582149778449">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1323" height="105" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1577375462254" />
+    <state width="1877" height="348" key="GridCell.Tab.1.center/0.0.1920.1040/-1366.0.1366.728@0.0.1920.1040" timestamp="1582149778449" />
+    <state width="1877" height="348" key="GridCell.Tab.1.left" timestamp="1582149778449">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1323" height="105" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1577375462253" />
+    <state width="1877" height="348" key="GridCell.Tab.1.left/0.0.1920.1040/-1366.0.1366.728@0.0.1920.1040" timestamp="1582149778449" />
+    <state width="1877" height="348" key="GridCell.Tab.1.right" timestamp="1582149778449">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1323" height="105" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1577375462254" />
+    <state width="1877" height="348" key="GridCell.Tab.1.right/0.0.1920.1040/-1366.0.1366.728@0.0.1920.1040" timestamp="1582149778449" />
+    <state x="259" y="9" key="SettingsEditor" timestamp="1575410655525">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="184" y="6" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1575203737533" />
+    <state x="259" y="9" key="SettingsEditor/0.0.1920.1040/-1366.0.1366.728@0.0.1920.1040" timestamp="1575410655525" />
+    <state x="379" y="187" key="com.intellij.ide.util.TipDialog" timestamp="1582358984776">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="379" y="187" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1582358984776" />
+    <state x="533" y="267" key="com.intellij.ide.util.TipDialog/0.0.1920.1040/-1366.0.1366.728@0.0.1920.1040" timestamp="1578520514233" />
+    <state x="680" y="164" key="run.anything.popup" timestamp="1576449093801">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="680" y="164" key="run.anything.popup/0.0.1366.728@0.0.1366.728" timestamp="1576449093801" />
+    <state x="486" y="70" width="945" height="969" key="search.everywhere.popup" timestamp="1575394780704">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1575201620601" />
+    <state x="486" y="70" width="945" height="969" key="search.everywhere.popup/0.0.1920.1040/-1366.0.1366.728@0.0.1920.1040" timestamp="1575394780704" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/StringTwo.java</url>
+          <line>6</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>

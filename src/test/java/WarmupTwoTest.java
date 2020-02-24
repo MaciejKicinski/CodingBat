@@ -3,7 +3,7 @@ import org.junit.jupiter.api.Test;
 import static org.junit.jupiter.api.Assertions.assertAll;
 import static org.junit.jupiter.api.Assertions.assertEquals;
 
-public class Warmup2 {
+public class WarmupTwoTest {
 
     // Given a string and a non-negative int n, return a larger string that is n copies of the original string.
     @Test
